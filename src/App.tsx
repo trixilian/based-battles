@@ -1,8 +1,5 @@
-
 function App() {
-
-  return (<h1>Based Battles</h1>
-  )
+  return <h1>Based Battles</h1>
 }
 
 export default App
